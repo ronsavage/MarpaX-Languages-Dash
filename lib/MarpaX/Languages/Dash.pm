@@ -1236,7 +1236,7 @@ Attributes:
 	5: Allow quotes and whitespace as per node names.
 		This must be true because the same non-Marpa parsers are used for both.
 	6: Attribute values can be HTML-like. See the Graphviz docs for why we say 'HTML-like' and
-		not HTML. See data/table.*.ge for examples.
+		not HTML. See data/table.*.gv for examples.
 
 See L<HTML-like labels|http://www.graphviz.org/content/node-shapes#html> for details.
 
@@ -1283,7 +1283,7 @@ currently used. It is used by L<GraphViz2::Marpa>.
 
 The 'graph' daughter (sub-tree) is what's processed by the default rendering engine
 L<MarpaX::Languages::Dash::Renderer> to convert the tree (i.e. the input file) into a DOT file
-and into an image.
+and hence into an image.
 
 =head2 Does this module handle utf8?
 
