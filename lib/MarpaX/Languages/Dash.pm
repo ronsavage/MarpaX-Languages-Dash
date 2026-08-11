@@ -824,7 +824,7 @@ sub _validate_event
 
 =head1 NAME
 
-L<MarpaX::Languages::Dash> - A Marpa-based parser for the DASH language
+MarpaX::Languages::Dash - A Marpa-based parser for the DASH language
 
 =head1 Synopsis
 

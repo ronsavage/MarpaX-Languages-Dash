@@ -142,7 +142,7 @@ sub generate_demo_index
 
 =head1 NAME
 
-L<MarpaX::Languages::Dash::Utils> - Utils used by MarpaX::Languages::Dash
+MarpaX::Languages::Dash::Utils - Utils used by MarpaX::Languages::Dash
 
 =head1 Synopsis
 

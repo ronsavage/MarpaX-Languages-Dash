@@ -39,7 +39,7 @@ sub get_files
 
 =head1 NAME
 
-L<MarpaX::Languages::Dash::Filer> - Utils used by MarpaX::Languages::Dash
+MarpaX::Languages::Dash::Filer - Utils used by MarpaX::Languages::Dash
 
 =head1 Synopsis
 

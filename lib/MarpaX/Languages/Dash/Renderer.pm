@@ -602,7 +602,7 @@ sub run
 
 =head1 NAME
 
-L<MarpaX::Languages::Dash::Renderer> - The default rendering engine for MarpaX::Languages::Dash
+MarpaX::Languages::Dash::Renderer - The default rendering engine for MarpaX::Languages::Dash
 
 =head1 Synopsis
 
